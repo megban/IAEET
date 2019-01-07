@@ -1,0 +1,147 @@
+.title
+{
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-top: 1rem;
+  min-height: 112px;
+
+
+}
+.title-other
+{
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-top: 1rem;
+  min-height: 60px;
+}
+h1
+{
+  margin-bottom: 0;
+}
+h4
+{
+  text-align: justify;
+
+
+  text-transform: uppercase;
+}
+.purpose
+{
+  border-left: 5px gray solid;
+
+}
+.home-carousel {
+height: 300px;
+overflow: hidden;
+width: 100%;
+}
+.carousel
+{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.carousel-item img {
+height: 300px;
+width: 100%;,
+
+}
+
+.navbar
+{
+margin-top: 1.5rem;
+
+}
+
+.navbar-brand
+{
+
+
+}
+
+.main
+{
+  width: 80%; margin: 0 auto 0 auto;
+
+}
+
+iframe
+{
+  margin: 0;
+  padding: 0;
+}
+.goal
+{
+  border-radius: 15px 50px 30px 5px;
+  min-height: 208px;
+  color: black;
+
+
+}
+body
+{
+  color: #505659;
+}
+.navbar
+{
+  text-transform: uppercase;
+  padding: 0;
+  color: #505659;
+
+}
+
+.faculty-pic
+{
+  border-radius: 50%;
+}
+.faculty-name
+{
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 2.625rem;
+
+}
+.faculty-bio
+{
+  margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #373a3c;
+    font-family: Lyft Pro,HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+    max-width: 500px
+}
+
+.faculty-title
+{
+  letter-spacing: 0;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  margin-bottom: 16px;
+}
+.faculty-card
+{
+  border-bottom: 1px solid #f3f3f5;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(243, 243, 245);
+    margin: 1rem;
+}
+.faculty-data
+{
+  padding-left: 2rem;
+}
+
+.navbar-brand
+{
+  color: #505659;
+  font-size: 1rem;
+
+}
+
+.navbar-light .navbar-brand
+{
+  color: #505659;
+}
