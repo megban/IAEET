@@ -60,10 +60,14 @@ margin-top: 1.5rem;
 
 .main
 {
-  width: 80%; margin: 0 auto 0 auto;
+   margin: 0 auto 0 auto;
 
 }
-
+.mcontainer
+{
+  padding-left: 0px;
+  padding-right: 0px;
+}
 iframe
 {
   margin: 0;
