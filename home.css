@@ -8,12 +8,20 @@
 
 }
 
+.card
+{
+  border-bottom: none;
+}
+.card-header
+{
+  border-bottom: none;
+}
 .title-other
 {
   letter-spacing: 3px;
   text-transform: uppercase;
   margin-top: 1rem;
-  min-height: 112px;
+  min-height: 100px;
   padding: 1rem;
 }
 .card-header
@@ -37,6 +45,11 @@ h4
   font-weight: lighter;
   font-style: italic;
 
+}
+
+ .btn-link
+{
+  color: black;
 }
 .purpose
 {
